@@ -15,3 +15,5 @@ for key, value in dict.items(myD):
     time.sleep(1)
 
 
+#知识点1： dict类型迭代
+#知识点2： 线程睡眠
